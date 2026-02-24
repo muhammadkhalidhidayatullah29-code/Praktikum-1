@@ -11,4 +11,7 @@ int main() { //mulai
     //langkah 3
     cout << "Masukkan lebar: ";
     cin >> l;
+
+    //langkah 4
+    luas = p * l;
 }
