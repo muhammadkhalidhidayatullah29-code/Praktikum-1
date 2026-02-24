@@ -5,11 +5,11 @@ int main() { //mulai
     int p, l, luas; //deklarasi 
 
     //langkah 2 
-    cout << "Masukkan panjang: ";
+    cout << "Masukkan panjang = ";
     cin >> p;
     
     //langkah 3
-    cout << "Masukkan lebar: ";
+    cout << "Masukkan lebar = ";
     cin >> l;
 
     //langkah 4
